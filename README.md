@@ -1,4 +1,4 @@
-# CCNA Lab 3 – Floating Static Routing
+# CCNA Lab  – Floating Static Routing
 
 ## Overview
 
